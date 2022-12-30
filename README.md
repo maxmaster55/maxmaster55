@@ -1,6 +1,6 @@
 # 💻 Hi there! 👋
 
-I'm Maxmaster55, an engineering student and software engineer with a ❤️ for coding and makeing fun projects.
+I'm Maxmaster55, an engineering student and software engineer with a ❤️ for coding and making fun projects.
 
 I have experience working with a variety of programming languages and technologies, including:
 
