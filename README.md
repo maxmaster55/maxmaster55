@@ -1,18 +1,21 @@
 # 💻 Hi there! 👋
 
-I'm Youssef, an engineering student and software engineer with a ❤️ for coding and making fun projects.
+I'm Youssef, an engineering grad, looking for something to do.
+currently a student in the ITI program.
 
-I have experience working with a variety of programming languages and technologies, including:
+```
+if you give me 6 houres to cut a tree, I will spend the first 4 looking up indian tutorials on yt.
+```
 
-- Embedded C 
-- Android Kotlin
-- Python 🐍
+I have experience working with a variety of programming languages, including:
+
+- C (embedded black magic)
+- C++ (f*ck Bjarne Stroustrup)
+- Kotlin 
+- Python
 - JavaScript
-- React
-- C
-- Rust 🦀 (currently learning)
+- Rust 🦀 (please don't sue me rust foundation)
 
-I'm also a big fan of Jetpack Compose and have experience building beautiful and responsive user interfaces for Android applications 📱. In addition, I have experience with Linux and am interested in embedded systems.
 
 <!---
 maxmaster55/maxmaster55 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
