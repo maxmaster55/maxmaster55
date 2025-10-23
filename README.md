@@ -4,7 +4,8 @@ I'm Youssef, an engineering grad, looking for something to do.
 currently a student in the ITI program.
 
 ```
-if you give me 6 houres to cut a tree, I will spend the first 4 looking up indian tutorials on yt.
+Give me six hours to chop down a tree and I'll spend the first four looking up indian tutorials on yt.
+                                                                                 (Tom Holland or smth)
 ```
 
 I have experience working with a variety of programming languages, including:
